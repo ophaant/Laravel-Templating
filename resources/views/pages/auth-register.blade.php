@@ -1,4 +1,4 @@
-@extends('layouts.auth',['title' => 'Login'])
+@extends('layouts.auth',['title' => 'Register'])
 @push('style')
     <!-- CSS Libraries -->
     <link rel="stylesheet"
