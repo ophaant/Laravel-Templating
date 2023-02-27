@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('register', function () {
     return view('pages.auth-register');
 });
+
+Route::get('dashboard', function () {
+    return view('pages.dashboard',['type_menu' => 'dashboard']);
+});

@@ -12,6 +12,12 @@
         "vite": "^4.0.0"
     },
     "dependencies": {
-        "selectric": "^1.13.0"
+        "chart.js": "^4.2.1",
+        "chocolat": "^1.1.0",
+        "jqvmap": "^1.0.1",
+        "selectric": "^1.13.0",
+        "simpleweather": "^3.1.0",
+        "summernote": "^0.8.20",
+        "weathericons": "^2.1.0"
     }
 }
