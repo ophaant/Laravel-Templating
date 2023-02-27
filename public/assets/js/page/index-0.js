@@ -1,5 +1,7 @@
 "use strict";
 
+import {Chart} from "chart.js/auto";
+
 var statistics_chart = document.getElementById("myChart").getContext('2d');
 
 var myChart = new Chart(statistics_chart, {
